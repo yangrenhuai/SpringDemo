@@ -1,6 +1,6 @@
-package cn.edu.svtcc.service;
+package svtcc.service;
 
-import cn.edu.svtcc.dao.UserDao;
+import svtcc.dao.UserDao;
 
 /**
  * 新增set方法，利用set方法实现动态注入
