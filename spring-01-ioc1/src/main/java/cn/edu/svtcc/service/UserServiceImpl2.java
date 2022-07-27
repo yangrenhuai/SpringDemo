@@ -13,6 +13,6 @@ public class UserServiceImpl2 implements UserService{
     }
     @Override
     public void getUser() {
-
+        userDao.getUser();
     }
 }
