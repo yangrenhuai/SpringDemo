@@ -13,6 +13,10 @@
         <module>spring-02-hellospring</module>
         <module>spring-01-ioc2</module>
         <module>spring-03-constructor</module>
+        <module>spring-04-di</module>
+        <module>spring-05-autowired</module>
+        <module>spring-05-autowired2</module>
+        <module>spring-06-annotation</module>
     </modules>
 
     <properties>
